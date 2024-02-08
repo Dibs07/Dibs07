@@ -11,7 +11,7 @@
 - 🔭 I’m currently learning everything about **MERN Stack Development using NextJS** 😅
 - 💞️ I’m looking to contribute everywhere possible, and learn from the collaborations and Willing to Participate in Hackathons.
 - ⚡ Fun fact: I love to play video games like **OVERWATCH , VALORANT**
-- 📫 You can contact me at : **soumyarajbag@gmail.com**
+- 📫 You can contact me at : **banerjeedibs@gmail.com**
 
 <br>
 
