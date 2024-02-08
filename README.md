@@ -1,5 +1,5 @@
 <!-- ![logo](https://github.com/soumyarajbag/soumyarajbag/blob/main/Soumyaraj_Bag_Poster.png) -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyarajbag&label=Profile%20views&color=0e75b6&style=flat" alt="soumyarajbag" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dibs07&label=Profile%20views&color=0e75b6&style=flat" alt="soumyarajbag" /> </p>
 <h1 align="center">Hi 👋, I'm Dibakar Banerjee</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 <h3 align="center">CS Undergrad & A Passionate Software Development Enthusiast !</h3>
