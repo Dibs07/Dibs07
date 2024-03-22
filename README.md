@@ -10,7 +10,7 @@
 - 👯 I’m looking for Internships .  
 - 🔭 I’m currently learning everything about **MERN Stack Development using NextJS** 😅
 - 💞️ I’m looking to contribute everywhere possible, and learn from the collaborations and Willing to Participate in Hackathons.
-- ⚡ Fun fact: I love to play video games like **OVERWATCH , VALORANT**
+- ⚡ Fun fact: I love to play video games like **OVERWATCH **
 - 📫 You can contact me at : **banerjeedibs@gmail.com**
 
 <br>
