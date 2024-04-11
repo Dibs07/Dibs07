@@ -45,7 +45,7 @@
 <br/>
 
 ---
-![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcard.jacoblin.cool/banerjeedibs?theme=light&font=Gorditas&ext=activity))
+![Leetcode Stats](https://leetcard.jacoblin.cool/banerjeedibs?theme=light&font=Gorditas&ext=activity)
 
 # <h3 align="center">🏅 My GitHub Stats 🏅</h3>
 
