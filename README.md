@@ -30,10 +30,10 @@
 ---
 
 ### Languages 🛠 
-[![My Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,js,ts)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,js,ts,dart)](https://skillicons.dev)
 
 ### Development Frameworks and Libraries
-[![My Development](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,react,mui,nodejs,expressjs,nextjs)](https://skillicons.dev)
+[![My Development](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,react,mui,nodejs,expressjs,nextjs,flutter)](https://skillicons.dev)
 
 ### Databases and Cloud Platforms 🛠 
 [![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,supabase,firebase)](https://skillicons.dev)
